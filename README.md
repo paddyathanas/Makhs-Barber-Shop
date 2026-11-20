@@ -1,4 +1,4 @@
-# Makhs Barber Shop — ιστοσελίδα
+Yes sir# Makhs Barber Shop — ιστοσελίδα
 
 Επαγγελματική ιστοσελίδα για το κουρείο **Makhs** (Παπάγου 92, Ζωγράφου) με splash intro, animations και **online κρατήσεις με αυτόματα email** σε πελάτη και ιδιοκτήτη.
 

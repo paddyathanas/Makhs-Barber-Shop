@@ -1,4 +1,4 @@
-Yes sir# Makhs Barber Shop — ιστοσελίδα
+# Makhs Barber Shop — ιστοσελίδα
 
 Επαγγελματική ιστοσελίδα για το κουρείο **Makhs** (Παπάγου 92, Ζωγράφου) με splash intro, animations και **online κρατήσεις με αυτόματα email** σε πελάτη και ιδιοκτήτη.
 
@@ -123,7 +123,7 @@ python3 -m http.server 8000
 ## Δημοσίευση στο GitHub Pages
 
 Settings → Pages → *Deploy from a branch* → `main` / `(root)` → Save.
-Το site θα ανοίγει στο `https://<username>.github.io/barbershopMakis/`.
+Το site θα ανοίγει στο `https://paddyathanas.github.io/Makhs-Barber-Shop/`.
 
 ## Φωτογραφίες
 
